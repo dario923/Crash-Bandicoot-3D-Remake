@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="bandicoot" src="https://github.com/user-attachments/assets/778f87fb-8c2b-4a08-92ee-bf1afd3619b3" />
 CrashRemake is or tries to be my personal project for trying to make a game by using Unity3D w/ Blender.
 
 Updates are in commits section. Actually I'm working solo.
